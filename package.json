@@ -1,0 +1,12 @@
+{
+  "name": "golumulu-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "^1.2.1",
+    "axios": "^1.6.8"
+  }
+}
